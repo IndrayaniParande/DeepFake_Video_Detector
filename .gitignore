@@ -1,0 +1,7 @@
+data/
+*.zip
+*.mp4
+*.npy
+*.pt
+*.onnx
+__pycache__/
