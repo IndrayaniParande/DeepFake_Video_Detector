@@ -1,3 +1,4 @@
 dataset:
-  type: google_drive
+  storage: google_drive
   path: MyDrive/DeepFake_Video_Detector
+

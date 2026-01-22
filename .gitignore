@@ -1,7 +1,50 @@
+# =========================
+# Data & Large Artifacts
+# =========================
 data/
 *.zip
 *.mp4
+*.avi
 *.npy
 *.pt
+*.pth
 *.onnx
+*.onnx.data
+
+# =========================
+# DVC cache (keep .dvc files tracked)
+# =========================
+.dvc/cache/
+
+# =========================
+# Python artifacts
+# =========================
 __pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Jupyter / IPython
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS / Editor noise
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Logs & temporary files
+# =========================
+*.log
+*.tmp
