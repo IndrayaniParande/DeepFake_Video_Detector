@@ -99,6 +99,13 @@ Audio–visual modeling
 
 Frame-level localization
 
+
+## Demo
+
+Below is a sample inference result showing a representative video frame used for prediction along with the model’s output.
+![Demo](assets/demo.jpg)
+
+
 ## Author
 ### Indrayani Parande
 #### Data Scientist| Deep Learning & Computer Vision
