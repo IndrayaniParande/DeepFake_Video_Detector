@@ -1,0 +1,5 @@
+outs:
+- md5: e8dacd66a4e13f570d8bfa2d1d7b9504
+  size: 20446
+  hash: md5
+  path: deepfake_3dcnn_final1.onnx
