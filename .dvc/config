@@ -1,4 +1,4 @@
 [core]
-    remote = gdrive
-['remote "gdrive"']
-    url = gdrive://1rfLB5lCgQkkUvpQX3c1lnNahToBjTMzw
+    remote = localstore
+['remote "localstore"']
+    url = C:/Users/ASUS/dvc-model-store
